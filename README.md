@@ -60,7 +60,7 @@ https://hexlet.io
 ### Российская академия музыки им. Гнесиных
 Артист, дирижёр, преподаватель музыки, 2007
 
-## Open Source и учебные проекты
+## Open Source, учебные и pet-проекты
 Участвовал в open-sourse проектах:
 - [Hexlet Friends](https://github.com/Hexlet/hexlet-friends), сервис для отслеживания вклада пользователей в проекты Hexlet
 - [Hexlet SIPC](https://github.com/Hexlet/hexlet-sicp), сервис для отслеживания прогресса при изучении «СИКП»
@@ -69,6 +69,9 @@ https://hexlet.io
 - [Генератор форм](https://github.com/zhabinka/rails-project-lvl1) (Ruby)
 - [Генератор различий](https://github.com/zhabinka/generate-diff) (Python)
 - [Набор игр Brain Games](https://github.com/zhabinka/brain-games) (Python)
+
+Pet-проект:
+- [Парсер автомобильных аукционов](https://github.com/zhabinka/goodauto) (Python, Django)
 
 ## Другая деятельность и увлечения
 - Классическая музыка
