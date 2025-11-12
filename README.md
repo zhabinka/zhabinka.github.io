@@ -1,27 +1,36 @@
 **Сергей Карпук**  
 *Бэкенд-разработчик*
 
-Телефон: +375 (29) 877-92-75  
-E-mail: sergeykarpuk@yandex.by  
++375 (29) 877-92-75  
+sergeykarpuk@yandex.by  
 Telegram: @sergeykarpuk
+Linkedin – https://linkedin.com/in/zhabinka
 
 ## Навыки
-- Ruby, Python, JavaScript, PHP
+- Elixir, Ruby, Python
 - Базы данных, PostgreSQL
+- RabbitMQ
+- Kubernetes
 - Docker, Ansible, GitHub CI
 - HTML/CSS
 
 ## Опыт работы
+
+### ООО «ИКомЧардж»
+Платежныe платформы и сервис приёма платежей – https://bepaid.by  
+Срок работы: август 2023 – по настоящее время  
+Позиция: Elixir-разработчик  
+Обязанности:
+- обслуживание хранилища финансовых операций (DWH Transactions)
+- разработка финансового сервиса (он-лайн баланс и выплаты участникам эквайринга)
+
 ### ООО «Хекслет Рус»
-https://hexlet.io  
+Онлайн-платформа для обучения программированию – https://hexlet.io  
 Срок работы: февраль 2019 – сентябрь 2022  
 Позиция: ментор  
 Обязанности:
-- помощь студентам в обучении
-- ревью кода студентов
-- создание практических упражнений (код + тесты)
-- корректура учебных материалов
-- разработка библиотек
+- обучение студентов, ревью кода
+- разработка упражнений и библиотек
     - [ruby-points](https://github.com/hexlet-components/ruby-points), SICP'ish Points implemented in Ruby using ruby-pairs
     - [python-immutable-fs-trees](https://github.com/hexlet-components/python-immutable-fs-trees), виртуальная файловая система
 
@@ -30,13 +39,11 @@ https://hexlet.io
 ### Фриланc
 2010 – 2018  
 Разработка, администрирование, продвижение веб-сайтов:
-- Движки Evo CMS и MODX REVO
+- Evo CMS, MODX REVO, Bitrix, Wordpress
 - Интеграция с 1С
-- Подержка сайтов на Bitrix, Wordpress
-- SEO-оптимизация и продвижение в поисковых системах
-- Контекстная реклама
+- SEO-оптимизация, продвижение в поисковых системах, контекстная реклама
 
-Создал и опубликовал около 100 веб-сайтов:
+Создал и опубликовал более 100 веб-сайтов:
 - [Verbeq](http://verbeq.ru/), производство наполнителей для матрасов
 - [Художник Андрей Ярошевич](https://graphics.by/), персональная страница
 - [Полмира](https://web.archive.org/web/20170530194623/https://polmira.by/), склад-магазин наполных покрытий
@@ -49,32 +56,20 @@ https://hexlet.io
 - [FABA](https://web.archive.org/web/20180801080454/http://frezy.by/), промышленный дереворежущий инструмент
 - [НТПК «Анализ Х»](https://web.archive.org/web/20141216192024/http://analiz-x.ru/), производство реагентов для общеклинических исследований
 
-Продвинул сайты в ТОП-1 Яндекса и Google по запросам "паркет", "паркетная доска", "монтаж отопления", "фрезы по дереву" и др.
+Продвинул сайты в ТОП-1 Яндекса и Google по высококонкурентным запросам: "паркет", "паркетная доска", "отопление", "фрезы" и др.
 
 ## Образование
-### Хекслет
-[Мой профиль студента](https://ru.hexlet.io/u/ck)
-- Курсы программирования Hexlet, JS Backend-разработчик, 2017-2018  
-- Курсы программирования Hexlet, Python-разработчик, 2021-2022
+- Российская академия музыки им. Гнесиных (артист, дирижёр, преподаватель музыки)
+- Курсы программирования Hexlet
+- [Курс программирования на Elixir](https://github.com/yzh44yzh/elixir_course) Юрия Жлобы
 
-### Российская академия музыки им. Гнесиных
-Артист, дирижёр, преподаватель музыки, 2007
-
-## Open Source, учебные и pet-проекты
-Участвовал в open-sourse проектах:
-- [Hexlet Friends](https://github.com/Hexlet/hexlet-friends), сервис для отслеживания вклада пользователей в проекты Hexlet
-- [Hexlet SIPC](https://github.com/Hexlet/hexlet-sicp), сервис для отслеживания прогресса при изучении «СИКП»
-
-Писал библиотеки и консольные приложения:
-- [Генератор форм](https://github.com/zhabinka/rails-project-lvl1) (Ruby)
-- [Генератор различий](https://github.com/zhabinka/generate-diff) (Python)
-- [Набор игр Brain Games](https://github.com/zhabinka/brain-games) (Python)
-
-Pet-проект:
+## Open Source
+- [Hexlet SIPC](https://github.com/Hexlet/hexlet-sicp), прогресс изучения «СИКП»
+- [Генератор различий](https://github.com/zhabinka/hexlet/tree/main/generate_diff_python) (Python)
 - [Парсер автомобильных аукционов](https://github.com/zhabinka/goodauto) (Python, Django)
 
 ## Другая деятельность и увлечения
+- Erlang
 - Классическая музыка
-- История и политика
 - Шахматы
 - Прыжки в воду
