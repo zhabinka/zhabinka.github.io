@@ -7,7 +7,7 @@ Telegram: @sergeykarpuk
 
 ## Навыки
 - **Elixir**/Erlang, Ruby, Python
-- Базы данных, **PostgreSQL**
+- Базы данных, **PostgreSQL**, **ClickHouse**
 - **RabbitMQ**
 - Kubernetes
 - Docker, Ansible, **CI/CD**
