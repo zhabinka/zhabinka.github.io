@@ -10,7 +10,7 @@ Telegram: @sergeykarpuk
 - Базы данных, **PostgreSQL**, **ClickHouse**
 - **RabbitMQ**
 - Kubernetes
-- Docker, Ansible, **CI/CD**
+- Docker, Ansible, **GitLab CI**
 - HTML/CSS
 
 ## Опыт
@@ -28,19 +28,11 @@ Telegram: @sergeykarpuk
 Позиция: ментор  
 - руководил командой из 5 человек
 - обучал студентов (JS, Python, PHP)
-- поддерживал инфраструктуру
+- готовил практики, поддерживал инфраструктуру
 
 ### Фриланc
 2010 – 2018  
-Создал более 100 сайтов (Evo CMS, MODX REVO, Bitrix):
-- [Художник Андрей Ярошевич](https://graphics.by/), персональная страница
-- [Полмира](https://web.archive.org/web/20170530194623/https://polmira.by/), склад-магазин наполных покрытий
-- [parket.by](https://web.archive.org/web/20141218043535/http://parket.by/), шоу-рум паркетной доски
-- [K8](https://web.archive.org/web/20160302031358/http://www.k8.by/), магазин снаряжения для путешествий и туризма
-- [Скiвiца](https://web.archive.org/web/20170109000052/http://skivitsa.by/), iнтэрнэт-крама 
-- [Свой дом](https://web.archive.org/web/20170822075341/http://svoydom.by/), монтаж отопления, водоснабжения, канализации
-- [FABA](https://web.archive.org/web/20180801080454/http://frezy.by/), промышленный дереворежущий инструмент
-
+Создал более 100 сайтов (Evo CMS, MODX REVO, Bitrix)  
 Продвинул в ТОП-1 Яндекса и Google по запросам "паркет", "паркетная доска", "отопление", "фрезы" и др.
 
 ## Образование
