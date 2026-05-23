@@ -20,7 +20,7 @@ Telegram: @sergeykarpuk
 Срок работы: 08.2023 – ...  
 Позиция: Elixir-разработчик  
 - обслуживаю хранилище финансовых операций (DWH transactions)
-- спроектировал и разработал финансовый сервис (он-лайн баланс, выплаты участникам эквайринга)
+- спроектировал и разработал финансовый сервис (он-лайн балансы, выплаты участникам эквайринга, отчётность)
 
 ### ООО «Хекслет Рус»
 Онлайн-платформа для обучения программированию – https://hexlet.io  
@@ -28,9 +28,7 @@ Telegram: @sergeykarpuk
 Позиция: ментор  
 - руководил командой из 5 человек
 - обучал студентов (JS, Python, PHP)
-- создавал упражнения и учебные библиотеки
-  - [ruby-points](https://github.com/hexlet-components/ruby-points), SICP'ish Points implemented in Ruby using ruby-pairs
-  - [python-immutable-fs-trees](https://github.com/hexlet-components/python-immutable-fs-trees), виртуальная файловая система
+- поддерживал инфраструктуру
 
 ### Фриланc
 2010 – 2018  
